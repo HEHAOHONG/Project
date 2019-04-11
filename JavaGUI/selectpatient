@@ -1,0 +1,26 @@
+{
+   "patients": [
+     {
+       "ID": "b40984b5-9d02-400f-9a09-b94e602c5061",
+       "BIRTHDATE": "2009-03-16",
+       "DEATHDATE": "",
+       "SSN": "999-40-1507",
+       "DRIVERS": "",
+       "PASSPORT": "",
+       "PREFIX": "",
+       "FIRST": "Delphine397",
+       "LAST": "Kozey370",
+       "SUFFIX": "",
+       "MAIDEN": "",
+       "MARITAL": "",
+       "RACE": "white",
+       "ETHNICITY": "italian",
+       "GENDER": "F",
+       "BIRTHPLACE": "Worcester  Massachusetts  US",
+       "ADDRESS": "645 Lang Forge",
+       "CITY": "Danvers",
+       "STATE": "Massachusetts",
+       "ZIP": "01923"
+     }
+  ]
+}

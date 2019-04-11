@@ -1,0 +1,25 @@
+<html>
+<head>
+  <title>Patient Data App</title>
+</head>
+<body>
+<div class="main">
+  <h1>Search</h1>
+
+  <form method="POST" action="/runsearch.html">
+    <input type="text" name="searchstring" placeholder="Enter search keyword here"/>
+    <input type="submit" value="Search All"/>
+  </form>
+  <form method="POST" action="/runsearch_name.html">
+    <input type="text" name="searchstring" placeholder="Enter name here"/>
+    <input type="submit" value="Search Name"/>
+  </form>
+  <form method="POST" action="/runsearch_age.html">
+    <input type="text" name="searchstring1" placeholder="Enter range here"/>
+    <a> to </a>
+    <input type="text" name="searchstring2" placeholder="Enter range here"/>
+    <input type="submit" value="Search Age"/>
+  </form>
+</div>
+</body>
+</html>

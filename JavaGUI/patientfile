@@ -1,0 +1,26 @@
+{
+   "patients": [
+     {
+       "ID": "d52570d9-1563-49f4-a220-7874b9a8e6e8",
+       "BIRTHDATE": "1971-03-15",
+       "DEATHDATE": "",
+       "SSN": "999-67-6891",
+       "DRIVERS": "S99919191",
+       "PASSPORT": "X85461180X",
+       "PREFIX": "Mrs.",
+       "FIRST": "Ivonne773",
+       "LAST": "Braun514",
+       "SUFFIX": "",
+       "MAIDEN": "Towne435",
+       "MARITAL": "M",
+       "RACE": "white",
+       "ETHNICITY": "italian",
+       "GENDER": "F",
+       "BIRTHPLACE": "Winchendon  Massachusetts  US",
+       "ADDRESS": "529 Runte Glen",
+       "CITY": "Natick",
+       "STATE": "Massachusetts",
+       "ZIP": "01760"
+     }
+  ]
+}
