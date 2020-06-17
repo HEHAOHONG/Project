@@ -16,7 +16,7 @@
   <url>http://localhost:8080</url>
 
   <properties>
-    <tomcat.version>9.0.14</tomcat.version>
+    <tomcat.version>9.0.36</tomcat.version>
   </properties>
 
   <build>
